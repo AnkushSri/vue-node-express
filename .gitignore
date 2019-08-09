@@ -1,5 +1,5 @@
 server/package-lock.json
-server/node_module
+server/node_modules/
 
-client/node_module
+client/node_modules
 client/package-lock.json
